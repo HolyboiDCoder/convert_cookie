@@ -15,3 +15,4 @@ Here's a breakdown of what the script does:
 
 Overall, this script is a useful tool for converting cookies between different formats, making it easier to import cookies into other web browsers that support the Netscape cookie format.
 
+The export_cookie.json file is the .json file that we want to convert to Netscape cookie format.
